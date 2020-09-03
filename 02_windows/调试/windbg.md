@@ -12,9 +12,13 @@ https://docs.microsoft.com/zh-cn/windows-hardware/drivers/debugger/windbg-instal
 
 2.1 设置符号路径和代码路径
 
+Settings->Debugging Settings
+
 ![image-20200903113112457](C:\Users\fangzhenyu\AppData\Roaming\Typora\typora-user-images\image-20200903113112457.png)
 
 2.2 导入dump文件
+
+Settings->Open dump file
 
 ![image-20200903113147675](C:\Users\fangzhenyu\AppData\Roaming\Typora\typora-user-images\image-20200903113147675.png)
 
