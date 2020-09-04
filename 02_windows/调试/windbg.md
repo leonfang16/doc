@@ -24,4 +24,10 @@ Settings->Open dump file
 
 2.3 启动分析
 
-执行：!analyze –v
+- !analyze –v
+
+  如果分析报错，可以根据提示输入以下命令：
+
+- .ecxr
+
+- .exr -1
